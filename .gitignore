@@ -9,6 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-
+mobile/node_modules
+backend/node_modules
+backend/knexfile.js
 # macOS
 .DS_Store
