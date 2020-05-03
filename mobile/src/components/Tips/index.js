@@ -23,7 +23,7 @@ export default function Tips() {
             bgColor: "#00ab4b",
         },
         {
-            key: 3,
+            key: 4,
             img: img,
             title: "Pague suas contas sem sair de casa",
             bgColor: "#ba2f76",
